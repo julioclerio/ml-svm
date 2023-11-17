@@ -74,6 +74,7 @@ cd ml-svm/notebooks
 # Access the dataset for your analyses
 repository/german_credit_data.csv
 
+```bash
 
 # Support Vector Machine (SVM)
 

@@ -57,25 +57,6 @@ The main challenge was to apply SVM and achieve a precision score higher than 0.
 | Weighted avg | 0.60 | 0.69  | 0.60    | 300     |
 
 
-## Open Collaborations
-
-Contributions to the project are welcome! If you have suggestions for improving the models, or if you have performed additional analyses that could provide further insights, please feel free to open an issue or submit a pull request.
-
-
-## Getting Started
-
-To get started with this project, clone the repository and navigate to the respective directories to access the Jupyter notebooks and the dataset:
-
-```bash
-git clone https://github.com/julioclerio/ml-svm
-# Run the Jupyter notebooks
-cd ml-svm/notebooks
-
-# Access the dataset for your analyses
-repository/german_credit_data.csv
-
-```bash
-
 # Support Vector Machine (SVM)
 
 Support Vector Machine (SVM) is a powerful supervised machine learning algorithm used primarily for classification tasks. Its primary objective is to find the best possible decision boundary that separates data points into different classes.
@@ -98,5 +79,20 @@ Support Vector Machine (SVM) is a powerful supervised machine learning algorithm
 
 Support Vector Machines are versatile and effective algorithms that excel in classification tasks by finding the best decision boundary between different classes in a dataset.
 
+## Open Collaborations
 
+Contributions to the project are welcome! If you have suggestions for improving the models, or if you have performed additional analyses that could provide further insights, please feel free to open an issue or submit a pull request.
+
+
+## Getting Started
+
+To get started with this project, clone the repository and navigate to the respective directories to access the Jupyter notebooks and the dataset:
+
+```bash
+git clone https://github.com/julioclerio/ml-svm
+# Run the Jupyter notebooks
+cd ml-svm/notebooks
+
+# Access the dataset for your analyses
+repository/german_credit_data.csv
 
